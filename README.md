@@ -16,5 +16,8 @@ Furthermore, we multiply the average energy consumption by the cost per kWh to f
     <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
     <img align="center" alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 
-## 🆕 Commits
+## 📊 Commits
+![GitHub Release Date](https://img.shields.io/github/release-date/aline-coro/energy-consumption)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/aline-coro/energy-consumption)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aline-coro/energy-consumption)
+
