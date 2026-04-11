@@ -15,4 +15,4 @@ monthly_cost = monthly_consumption * appliance_energycost
 # Output
 print(f"\nAppliance: {appliance_name}")
 print(f"Estimated energy consumption: {monthly_consumption:.2f} kWh/month")
-print(f"Estimated cost: R${monthly_cost:.2f}/month")
+print(f"Estimated cost: R${monthly_cost:.2f} per month")
